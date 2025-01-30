@@ -1,1 +1,0 @@
-# Ransomware-python-desafio-bootcamp-santander
